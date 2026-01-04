@@ -1,7 +1,10 @@
 import requests
 
 import selectorlib
-# Imports the requests and the sectorlib library
+# Imports the requests and the selectorlib library
+
+"INSERT INTO events VALUES ('Feng Suave', 'Minimalia City', '5.5.2089')"
+"SELECT*FROM data WHERE date='6.5.2088'"
 
 URL = "https://programmer100.pythonanywhere.com/tours/" # Stores the url in a variable named URL.
 
